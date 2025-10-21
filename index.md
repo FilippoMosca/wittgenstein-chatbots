@@ -1,24 +1,81 @@
-# Wittgenstein Chatbots – UiB Workshop 2025
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Wittgenstein Chatbots – UiB Workshop 2025</title>
+  <style>
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      max-width: 800px;
+      margin: 50px auto;
+      padding: 0 1rem;
+      line-height: 1.6;
+      color: #222;
+    }
+    h1, h2 {
+      text-align: center;
+    }
+    h1 {
+      font-size: 1.9em;
+      margin-bottom: 0.3em;
+    }
+    hr {
+      border: none;
+      border-top: 1px solid #ccc;
+      margin: 2em 0;
+    }
+    ol {
+      padding-left: 1.2em;
+    }
+    a {
+      color: #0366d6;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    footer {
+      font-size: 0.9em;
+      color: #555;
+      margin-top: 3em;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
 
-Welcome!  
-Here you can explore the chatbots presented by **Alois Pichler** and **Filippo Mosca** during the workshop  
-**“AI: How to develop chatbots for research and teaching purposes”**  
-at the **University Library of Bergen, October 29, 2025**.
+<h1>Wittgenstein Chatbots – UiB Workshop 2025</h1>
 
----
+<p style="text-align:center;">
+Welcome!<br>
+Here you can explore the chatbots presented by <strong>Alois Pichler</strong> and <strong>Filippo Mosca</strong> during the workshop<br>
+<em>“AI: How to develop chatbots for research and teaching purposes”</em><br>
+at the <strong>University Library of Bergen, October 29, 2025</strong>.
+</p>
 
-## Chatbots
+<hr>
 
-1. [Wittgensteinian Oracle](https://filippomosca.github.io/wittgensteinian-oracle/)
-2. [Wittgenstein Chatbot Discovery (OpenAI)](https://chatgpt.com/g/g-68bfeead78e48191a44b6f787a28872c-wittgenstein-discovery-chatbot)
-3. [Wittgenstein Chatbot Discovery (NotebookLM)]()
-4. [Wittgenstein SPARQL Chatbot (OpenAI)](https://chatgpt.com/g/g-68b55562fda48191800bdfcc22c3e557-wittgenstein-sparql-chatbot)
-5. [Wittgenstein Nachlass Chatbot (UiB prototype)](https://notebooklm.google.com/notebook/b19586a6-c7ba-4440-a168-b3d6ed95a23e)
+<h2>Chatbots</h2>
+<ol>
+  <li><a href="https://filippomosca.github.io/wittgensteinian-oracle/">Wittgensteinian Oracle</a></li>
+  <li><a href="#">Wittgenstein Chatbot Discovery (OpenAI)</a></li>
+  <li><a href="#">Wittgenstein Chatbot Discovery (NotebookLM)</a></li>
+  <li><a href="#">Wittgenstein SPARQL Chatbot (OpenAI)</a></li>
+  <li><a href="#">Wittgenstein Nachlass Chatbot (UiB prototype)</a></li>
+</ol>
 
----
+<hr>
 
-## 💡 Try it yourself and compare how each chatbot behaves
+<h2>💡 Try it yourself and compare how each chatbot behaves</h2>
+<p>
+Try asking questions such as:<br>
+<em>“Where does Wittgenstein mention solipsism?”</em><br>
+Compare how each chatbot answers, and notice how temperature and number of retrieved documents affect the results.
+</p>
 
----
+<footer>
+© 2025 Wittgenstein Archives at the University of Bergen · Alois Pichler &amp; Filippo Mosca
+</footer>
 
-© 2025 Wittgenstein Archives at the University of Bergen · Alois Pichler & Filippo Mosca
+</body>
+</html>
